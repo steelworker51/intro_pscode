@@ -11,3 +11,15 @@
 # print number of guesses maximum of three guesses #
 # if guesses have reached the maximum number print thanks for playing maximum number of guesses have been reached #
 
+#computer_choice = random.choice ([1,2,3,4,5,6,7,8,9,10})
+#user_choice = input('Enter a number from one to ten')
+#if computer_choice == user_choice:
+#	print('You chose the right number')
+#else print('Not correct try again you have 2 more tries)
+#if computer_choice == user choice:
+#	print('You chose the right number')
+#else print('Not correct try again you have 1 lasst try)
+#if computer_choice == user choice:
+#	print('You chose the right number')
+#else print("Nout correct thanks for playing")
+ 
