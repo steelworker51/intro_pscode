@@ -5,4 +5,6 @@
 # Each scan adds 2 to the previous number of packages, if packages after that scan = 50 then print 'this case is full'
 # Continue on previous scan + current scan if = 50 then print 'this case if full' else 'please add another package to complete this case'
 # If the number of packages = < than 50 then print 'please scan another package to add to this case'
+# When a user = 25 packages then print you have fullfilled the  number of packages for this case
+
 
