@@ -1,13 +1,16 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
-# need the computer to come up with a specific location for the user to come to#
-# need computer to come up with a starting locations
-# prompt the user for which direction they want to move
-# prompt the user for how many paces they want to move
-# if user has reached the specific space they print 'you have reached your destination'
-# if not ask user how they want to proceed, which direction, and how many paces
-# check computer location picked and current location and computer
-# print if they are hot or cold to the new location
+# The starting location would be the entrance of the store or the warehouse
+# prompt the user what location would like to visit in the store
+# we have the starting location x, then location that the user wants to go to y
+# if the store is set up like a lot of large warehouse store location then they are numbered lets say 1-50 in the number of sections
+# section 1 would be so many paces inside the store then up then to the right
+# so take user inputed location and location of the the number of the section in the warehouse store
+# print out how many paces left or right that they need to travel
+# print out how many paces up or down that they need to travel
+# if they need to find a point again and they are already at one of the numbered sections in the store
+# then we would need the users inputed location and the new location they would like to travel in the store
+# print out the paces that need to be taken to get to the new location
 
 
 
